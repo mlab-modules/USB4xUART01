@@ -3,6 +3,7 @@ github_branch: USB4xUART01A
 github_repo: USB4xUART01
 github_url: https://github.com/mlab-modules/USB4xUART01
 homepage: false
+image_title: doc/img/USB4xUART01A_top_small.jpg
 images:
 - doc/img/USB4xUART01A_bottom.jpg
 - doc/img/USB4xUART01A_top.jpg
